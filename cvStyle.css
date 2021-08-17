@@ -1,5 +1,47 @@
-.header {
-    background-color: blue;
-    height: 200px;
-  /*  text-align: center; */
+body {
+    background-color: #b5a789;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    /* margin: 0, auto; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    /* text-align: center; */
+    /* position: float; */   
 }
+
+.header {
+    background-color: rgb(124, 124, 231);
+    margin: 10px;
+    height: 200px;
+}
+
+article {
+    background: rgb(156, 156, 165);
+    font-size: 105%;
+    padding: 15;
+    margin: 0, 10, 10, 10;
+    /* width: 800px; */
+}
+
+aside {
+    background: rgb(9, 9, 12);
+    font-size: 105%;
+    padding: 15;
+    margin: 0, 10, 10, 10;
+}
+
+footer {
+    background-color: rgb(161, 47, 206);
+    color: efe5d0;
+    text-align: center;
+    font-size: 90%;
+    padding: 15;
+    margin: 10;
+    width: 80;
+}
+
+/* h1 {
+    font-size: 120%;
+    padding: 30px;
+} */
